@@ -1,1 +1,2 @@
-print("goodvbay")
+print("goodvbay;")
+print("goodvbay my dear friend;")
